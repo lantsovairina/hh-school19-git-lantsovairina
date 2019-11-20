@@ -12,3 +12,15 @@ drwxr-xr-x 2 irina irina 4096 ноя 20 19:46 info
 drwxr-xr-x 3 irina irina 4096 ноя 20 19:51 logs
 drwxr-xr-x 8 irina irina 4096 ноя 20 19:51 objects
 drwxr-xr-x 4 irina irina 4096 ноя 20 19:46 refs
+итого 44
+drwxr-xr-x 11 irina irina 4096 ноя 20 19:57 .
+drwxr-xr-x  8 irina irina 4096 ноя 20 19:57 ..
+drwxr-xr-x  2 irina irina 4096 ноя 20 19:51 34
+drwxr-xr-x  2 irina irina 4096 ноя 20 19:51 61
+drwxr-xr-x  2 irina irina 4096 ноя 20 19:49 66
+drwxr-xr-x  2 irina irina 4096 ноя 20 19:51 89
+drwxr-xr-x  2 irina irina 4096 ноя 20 19:56 d5
+drwxr-xr-x  2 irina irina 4096 ноя 20 19:57 ea
+drwxr-xr-x  2 irina irina 4096 ноя 20 19:57 eb
+drwxr-xr-x  2 irina irina 4096 ноя 20 19:46 info
+drwxr-xr-x  2 irina irina 4096 ноя 20 19:46 pack
