@@ -1,0 +1,14 @@
+итого 52
+drwxr-xr-x 8 irina irina 4096 ноя 20 19:52 .
+drwxr-xr-x 3 irina irina 4096 ноя 20 19:56 ..
+drwxr-xr-x 2 irina irina 4096 ноя 20 19:46 branches
+-rw-r--r-- 1 irina irina   19 ноя 20 19:51 COMMIT_EDITMSG
+-rw-r--r-- 1 irina irina  153 ноя 20 19:47 config
+-rw-r--r-- 1 irina irina   73 ноя 20 19:46 description
+-rw-r--r-- 1 irina irina   26 ноя 20 19:52 HEAD
+drwxr-xr-x 2 irina irina 4096 ноя 20 19:46 hooks
+-rw-r--r-- 1 irina irina  217 ноя 20 19:52 index
+drwxr-xr-x 2 irina irina 4096 ноя 20 19:46 info
+drwxr-xr-x 3 irina irina 4096 ноя 20 19:51 logs
+drwxr-xr-x 8 irina irina 4096 ноя 20 19:51 objects
+drwxr-xr-x 4 irina irina 4096 ноя 20 19:46 refs
